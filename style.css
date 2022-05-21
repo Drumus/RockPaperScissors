@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(163, 162, 162);
+    margin: 150px;
+}
+
+button {
+    background-color:aqua;
+    padding: 50px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin:20px;
+}
