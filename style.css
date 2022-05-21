@@ -9,4 +9,6 @@ button {
     border-radius: 15px;
     font-size: 20px;
     margin:20px;
+    cursor: pointer;
+
 }
